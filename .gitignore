@@ -1,0 +1,13 @@
+*
+!.gitignore
+!requirements.txt
+!src/
+!src/*.py
+!notebooks/
+!notebooks/*.ipynb
+!app/
+!app/simulator.py
+!app/test_simulator.py
+!data/
+!data/raw/
+!data/raw/*.dat

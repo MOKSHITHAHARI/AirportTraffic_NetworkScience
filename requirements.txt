@@ -1,0 +1,13 @@
+networkx==3.4.2
+pandas==2.2.1
+numpy==1.26.2
+scipy==1.14.1
+matplotlib==3.8.4
+powerlaw==2.0.0
+scikit-learn==1.5.1
+numba==0.60.0
+igraph==1.0.0
+leidenalg==0.12.0
+streamlit==1.39.0
+plotly==5.24.1
+python-docx

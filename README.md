@@ -150,11 +150,3 @@ Caveats worth knowing:
 Pandey, B. & Kafle, S. *Analysis and Resilience of the U.S. Flight Network.* arXiv:2505.11559.
 
 Other methods used: Clauset, Shalizi & Newman (2009) for power-law testing; Motter & Lai (2002) for the load cascade.
-
-## Authors
-
-Add your names, course and institution here.
-
-## License
-
-Add a license. The OpenFlights data has its own terms (Open Database License); check them before redistributing.
